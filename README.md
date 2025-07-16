@@ -6,7 +6,7 @@
 
 
 Universidade Federal de Itajubá – Engenharia de Computação  
-*Atualizado em: 15 de julho de 2025*
+*Atualizado em: 16 de julho de 2025*
 
 ---
 
