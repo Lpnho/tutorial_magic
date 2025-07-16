@@ -326,5 +326,11 @@ O *Design Rule Check* (DRC) garante que o layout obedece às regras de fabricaç
 ---
 
 ## Referências
-As referências podem ser adicionadas aqui, por exemplo:
-* [Documentação Oficial do SkyWater PDK](https://skywater-pdk.readthedocs.io/en/main/)
+1.  **SkyWater Open Source PDK** Google and SkyWater Technology. (2020). *SkyWater open source PDK*. Acessado em 11 de julho de 2025.  
+    **Disponível em:** [https://github.com/google/skywater-pdk](https://github.com/google/skywater-pdk)
+
+2.  **FOSSi Dial-Up: Skywater PDK Announcement** Ansell, T. (2020). *[FOSSi Dial-Up] Tim Ansell - Skywater PDK: Fully open source manufacturable PDK for a 130nm process* [Vídeo]. YouTube. Acessado em 11 de julho de 2025.  
+    **Disponível em:** [https://www.youtube.com/watch?v=EczW2IWdnOM](https://www.youtube.com/watch?v=EczW2IWdnOM)
+
+3.  **SkyWater PDK Documentation** SkyWater Technology and Google. (2020). *SkyWater PDK Documentation*. Acessado em 11 de julho de 2025.  
+    **Disponível em:** [https://skywater-pdk.readthedocs.io/](https://skywater-pdk.readthedocs.io/)
