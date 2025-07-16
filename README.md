@@ -1,8 +1,9 @@
 # Tutorial da Ferramenta Magic
 ## Layout de Circuitos Integrados Digitais e Verificação LVS
 
+**NATAN FERREIRA ROSA DE JESUS VAZ - natanvaz27@gmail.com**\
 **LUIZ FELIPE RODRIGUES COSTA - luizfelipecosta0@gmail.com**
-**NATAN FERREIRA ROSA DE JESUS VAZ - natanvaz27@gmail.com**
+
 
 Universidade Federal de Itajubá – Engenharia de Computação  
 *Atualizado em: 15 de julho de 2025*
